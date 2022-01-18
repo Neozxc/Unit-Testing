@@ -20,19 +20,6 @@
 //     expect(status).toContain('name', 'age');
 //   });
 
-
-
-
-
-
-
-
-
-
-
-
-// CHALLENGES
-
 // Null
 // const bloop = () => {
 //     return null;
